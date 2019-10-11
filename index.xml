@@ -12,5 +12,58 @@
       <link>https://shupadhy.github.io/</link>
     </image>
     
+    <item>
+      <title>Biography</title>
+      <link>https://shupadhy.github.io/home/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shupadhy.github.io/home/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://shupadhy.github.io/home/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shupadhy.github.io/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://shupadhy.github.io/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shupadhy.github.io/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://shupadhy.github.io/home/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shupadhy.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://shupadhy.github.io/home/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shupadhy.github.io/home/publications/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Quickly discover relevant content by &lt;a href=&#34;https://shupadhy.github.io/publication/&#34; target=&#34;_blank&#34;&gt;filtering publications&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://shupadhy.github.io/home/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shupadhy.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

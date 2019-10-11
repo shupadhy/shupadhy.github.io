@@ -3,6 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://shupadhy.github.io/home/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shupadhy.github.io/home/skills/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shupadhy.github.io/home/experience/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shupadhy.github.io/home/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shupadhy.github.io/home/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shupadhy.github.io/home/contact/</loc>
+  </url>
+  
+  <url>
     <loc>https://shupadhy.github.io/authors/admin/</loc>
   </url>
   
@@ -16,6 +40,10 @@
   
   <url>
     <loc>https://shupadhy.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shupadhy.github.io/home/</loc>
   </url>
   
   <url>
